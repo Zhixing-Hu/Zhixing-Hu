@@ -2,7 +2,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Kenny Hu a Full Stack Developer from Bay Area.
+### Hello! I'm Zhixing Hu a Full Stack Developer from Bay Area.
 
 ### Portfolio: https://www.kennyhu.com
 
