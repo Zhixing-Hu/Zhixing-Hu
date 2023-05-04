@@ -4,7 +4,6 @@
 
 ### Hello! I'm Zhixing Hu a Full Stack Developer from Bay Area.
 
-### Portfolio: https://www.kennyhu.com
 
 <a href="https://linkedin.com/in/kenny-hu/">
   <img align="left" alt="Zhixing Hu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
